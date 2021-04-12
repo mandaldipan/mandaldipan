@@ -1,4 +1,4 @@
-## Hi there I am Dipan!👋
+## Hi there I am Dipan Mandal!👋
 
 - 🔭 I’m currently working on ... Computer Vision
 - 🌱 I’m currently learning ...
