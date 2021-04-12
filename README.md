@@ -1,5 +1,4 @@
 ## Hi there I am Dipan!👋
-### i am studying btech
 
 - 🔭 I’m currently working on ... Computer Vision
 - 🌱 I’m currently learning ...
