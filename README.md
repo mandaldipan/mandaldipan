@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there I am Dipan!👋
 
 - 🔭 I’m currently working on ... Computer Vision
 - 🌱 I’m currently learning ...
